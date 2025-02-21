@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>apks</title>
+    <div style="margin-top: 20px;">
+    <img src=https://cdn.discordapp.com/attachments/1334896304521875540/1342537317868507216/f89c8131d5d7d252c2f3455de022e45f.gif?ex=67b9fecf&is=67b8ad4f&hm=0272bc73287e1439a7a4c69959df483a4685b3eb669efb78628fce910d0e416c& alt="Profile Image" style="max-width: 300px;">  
+   <p>
+    <style>
+  
+     .pepito-button {
+    background-color: #;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.followers-button:hover {
+    background-color: #4d5656;
+} 
+    </style>
+<a href="https://discord.gg/srfamilly">
+<buttton class="pepito-button">DISCORD COMUNITY</buttton>
+    
+</a>
+   </p>
+    </div>
+    <br>
+    <h3> MAS POPULARES </h3>
+ <a href="https://apkmody.com/games/minecraft" target="_blank">   
+  <style>
+  
+     .pepito-button {
+    background-color: #212f3d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.followers-button:hover {
+    background-color: #4d5656;
+} 
+      </style>
+     <button class="pepito-button">Minecraft</button>
+</a>
+    <a href="https://apkmody.com/games/hollow-knight" target="_blank">   
+  <style>
+  
+     .hollownight-button {
+    background-color: #212f3d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.followers-button:hover {
+    background-color: #4d5656;
+} 
+      </style>
+     <button class="hollownight-button">hollow night</button>
+    </a>
+    <a href="https://apkmody.com/games/terraria" target="_blank">   
+  <style>
+  
+     .pepito-button {
+    background-color: #212f3d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.followers-button:hover {
+    background-color: #4d5656;
+} 
+      </style>
+     <button class="pepito-button">Terraria</button>
+    </a>
+<br>
+    <h3>CLASIC FNAF</h3>        
+    <a href="https://apkmody.com/games/five-nights-at-freddys-4" target="_blank">   
+  <style>
+  
+     .pepito-button {
+    background-color: #212f3d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.followers-button:hover {
+    background-color: #4d5656;
+} 
+      </style>
+     <button class="pepito-button">FNAF 4 </button>
+    </a>
+    <a href="https://apkmody.com/games/five-nights-at-freddys-3" target="_blank">   
+  <style>
+  
+     .pepito-button {
+    background-color: #212f3d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.followers-button:hover {
+    background-color: #4d5656;
+} 
+      </style>
+     <button class="pepito-button">FNAF 3 </button>
+    </a>
+<a href="https://apkmody.com/games/five-nights-at-freddys-2" target="_blank">   
+  <style>
+  
+     .pepito-button {
+    background-color: #212f3d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.followers-button:hover {
+    background-color: #4d5656;
+} 
+      </style>
+     <button class="pepito-button">FNAF 2 </button>
+</a>
+    <a href="https://apkmody.com/games/five-nights-at-freddys-sl" target="_blank">   
+  <style>
+  
+     .pepito-button {
+    background-color: #212f3d;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.followers-button:hover {
+    background-color: #4d5656;
+} 
+      </style>
+     <button class="pepito-button">FNAF SL </button>
+    </a>     
+<p style="color: #666; font-size: 12px; margin-top: 20px;">by.nova/apkmody</p>
+</body>
+</html>
