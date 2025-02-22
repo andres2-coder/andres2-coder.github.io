@@ -1,9 +1,6 @@
-5<!DOCTYPE html>
 <html>
 <head>
 <title>apks</title>
-    <div style="margin-top: 20px;">
-    <img src=https://cdn.discordapp.com/attachments/1334896304521875540/1342537317868507216/f89c8131d5d7d252c2f3455de022e45f.gif?ex alt="Profile Image" style="max-width: 300px;">  
    <p>
     <style>
   
