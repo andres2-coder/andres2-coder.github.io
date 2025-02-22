@@ -23,7 +23,6 @@
     
 </a>
    </p>
-    </div>
     <br>
     <h3> MAS POPULARES </h3>
  <a href="https://apkmody.com/games/minecraft" target="_blank">   
